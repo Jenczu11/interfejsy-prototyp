@@ -1,0 +1,309 @@
+.mediaViewInfo {
+	--web-view-name: O4;
+	--web-view-id: O4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: O4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#O4 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: O4;
+	--web-view-id: O4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Ocena_kn {
+	left: 762px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Oce_nasze_Usugi_ko {
+	left: 692px;
+	top: 140px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+	text-transform: capitalize;
+}
+#star_kp {
+	filter: drop-shadow(0px 3px 6px rgba(255, 247, 9, 0.161));
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1178px;
+	top: 276px;
+	overflow: visible;
+}
+#Twoja_ocena_kq {
+	left: 692px;
+	top: 280.5px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+#Path_1_kr {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_kr {
+	overflow: visible;
+	position: absolute;
+	width: 536px;
+	height: 110px;
+	left: 692px;
+	top: 374px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Napisz_kilka_zda_o_naszych_usu_ks {
+	left: 701px;
+	top: 378px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(103,97,97,1);
+	letter-spacing: 0.3px;
+}
+#Rectangle_6_kt {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_kt {
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 39px;
+	left: 692px;
+	top: 520.5px;
+}
+#Twj_pseudonim__ku {
+	left: 701px;
+	top: 525px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(103,97,97,1);
+	letter-spacing: 0.3px;
+}
+#Component_3__8 {
+	position: absolute;
+	width: 122px;
+	height: 52px;
+	left: 692px;
+	top: 589px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Ocena_potwierdzenie.html;
+	cursor: pointer;
+}
+#Rectangle_4_kw {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_kw {
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+}
+#Wylij_kx {
+	left: 34px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Line_9_ky {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9_ky {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 5px;
+	left: 1408.5px;
+	top: 953.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_10_kz {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_kz {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 1px;
+	transform: matrix(1,0,0,1,1408.5,953.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_2_k {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2_k {
+	overflow: visible;
+	position: absolute;
+	width: 53.998px;
+	height: 54.276px;
+	left: 1113px;
+	top: 275.038px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 53.998px;
+	height: 54.276px;
+	left: 1047px;
+	top: 275.038px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 53.998px;
+	height: 54.276px;
+	left: 981px;
+	top: 276.038px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 53.998px;
+	height: 54.276px;
+	left: 915px;
+	top: 275.038px;
+	transform: matrix(1,0,0,1,0,0);
+}

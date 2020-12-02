@@ -1,0 +1,451 @@
+.mediaViewInfo {
+	--web-view-name: Kontakt_Potwierdzenie;
+	--web-view-id: Kontakt_Potwierdzenie;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Kontakt_Potwierdzenie;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Kontakt_Potwierdzenie {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Kontakt_Potwierdzenie;
+	--web-view-id: Kontakt_Potwierdzenie;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Kontakt__lp {
+	left: 762px;
+	top: 149px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Formularz_kontaktowy_lq {
+	left: 1244px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+	text-transform: capitalize;
+}
+#Rectangle_1_lr {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_lr {
+	position: absolute;
+	overflow: visible;
+	width: 536px;
+	height: 39px;
+	left: 1244px;
+	top: 342px;
+}
+#Rectangle_2_ls {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ls {
+	position: absolute;
+	overflow: visible;
+	width: 536px;
+	height: 110px;
+	left: 1244px;
+	top: 514px;
+}
+#Rectangle_3_lt {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_lt {
+	position: absolute;
+	overflow: visible;
+	width: 536px;
+	height: 39px;
+	left: 1244px;
+	top: 428px;
+}
+#twj_adres_email__lu {
+	left: 1255px;
+	top: 347px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(103,97,97,1);
+	letter-spacing: 0.3px;
+}
+#temat_wiadomoci__lv {
+	left: 1255px;
+	top: 433px;
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(103,97,97,1);
+	letter-spacing: 0.3px;
+}
+#tre_wiadomoci__lw {
+	left: 1255px;
+	top: 521px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(103,97,97,1);
+	letter-spacing: 0.3px;
+}
+#Component_3__10 {
+	position: absolute;
+	width: 122px;
+	height: 52px;
+	left: 1658px;
+	top: 661px;
+	overflow: visible;
+}
+#Rectangle_4_ly {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_ly {
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+}
+#Wylij_lz {
+	left: 34px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Group_5_l {
+	position: absolute;
+	width: 1920px;
+	height: 70px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#Rectangle_1_l {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_l {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#LOGO_l {
+	left: 123px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Strona_gwna_l {
+	left: 1104px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Strona_g__wna_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Oferta_l {
+	left: 1394px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Oferta_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Kontakt_l {
+	left: 1549px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Kontakt_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Group_7 {
+	position: absolute;
+	width: 279px;
+	height: 110px;
+	left: 1490px;
+	top: 848px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Kontakt_1.html;
+	cursor: pointer;
+}
+#Rectangle_7_l {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_l {
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 110px;
+	left: 0px;
+	top: 0px;
+}
+#Wiadomo_zostaa__dostarczona__l {
+	left: 31px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Jak_nas_znajdziesz_l {
+	left: 140px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+	text-transform: capitalize;
+}
+#Rectangle_5_ma {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_ma {
+	position: absolute;
+	overflow: visible;
+	width: 536px;
+	height: 227px;
+	left: 140px;
+	top: 342px;
+}
+#Znajdziesz_nasz____pod_adresem_mb {
+	left: 703.5px;
+	top: 381px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+#ID555-555-555_mc {
+	left: 140px;
+	top: 633.5px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#XXXXXXX_md {
+	left: 140px;
+	top: 733.5px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+#Znajdziesz_nasz_pod_wskazanymi_me {
+	left: 703.5px;
+	top: 654px;
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+#Line_19_mf {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_19_mf {
+	overflow: visible;
+	position: absolute;
+	width: 111px;
+	height: 2px;
+	left: 463.5px;
+	top: 376.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

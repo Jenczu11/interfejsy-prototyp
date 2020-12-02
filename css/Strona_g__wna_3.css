@@ -1,0 +1,909 @@
+.mediaViewInfo {
+	--web-view-name: Strona główna 3;
+	--web-view-id: Strona_gwna_3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Strona_gwna_3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Strona_gwna_3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Strona główna 3;
+	--web-view-id: Strona_gwna_3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_1_bz {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_bz {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#LOGO_b {
+	left: 123px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Strona_gwna_b {
+	left: 1104px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Oferta_b {
+	left: 1394px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Oferta_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Kontakt_b {
+	left: 1549px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Kontakt_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Path_1_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 1877px;
+	top: 497px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Strona_g__wna_1.html;
+	cursor: pointer;
+}
+#Ellipse_2_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Strona_g__wna_2.html;
+	cursor: pointer;
+}
+.Ellipse_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 23px;
+	left: 1877px;
+	top: 529px;
+}
+#Ellipse_3_b {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_b {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 23px;
+	left: 1877px;
+	top: 561px;
+}
+#RECENZJE {
+	left: 854px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 1520px;
+	height: 702px;
+	left: 194px;
+	top: 233px;
+	overflow: hidden;
+}
+#Group_3 {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 328px;
+	height: 57px;
+	left: 21px;
+	top: 9px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 65px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_ch {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_ch {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_2 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 130px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_cj {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_cj {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_3 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 195px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_cl {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_cl {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_4 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 260px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_cn {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_cn {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_co {
+	left: 21px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 516px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Anonim {
+	left: 247px;
+	top: 632px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 56px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Group_3_cq {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 513px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2_cr {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1_cs {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_6_ct {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_ct {
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_cu {
+	position: absolute;
+	width: 328px;
+	height: 57px;
+	left: 21px;
+	top: 9px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_cu_0 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_cw {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_cw {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_cu_1 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 65px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_cy {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_cy {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_cu_2 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 130px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_c {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_cu_3 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 195px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_da {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_da {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_cu_4 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 260px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_db {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_db {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_c {
+	left: 21px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 516px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Anonim_c {
+	left: 247px;
+	top: 632px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 56px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Group_3_c {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 1026px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2_c {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1_c {
+	position: absolute;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_6_da {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_da {
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	height: 702px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_db {
+	position: absolute;
+	width: 328px;
+	height: 57px;
+	left: 21px;
+	top: 9px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_db_0 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_dd {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_dd {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_db_1 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 65px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_df {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_df {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_db_2 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 130px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_dh {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_dh {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_db_3 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 195px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_dj {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_dj {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_db_4 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 260px;
+	top: 0px;
+	overflow: visible;
+}
+#Polygon_1_dl {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_dl {
+	overflow: visible;
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_dm {
+	left: 21px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 516px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Anonim_dn {
+	left: 247px;
+	top: 632px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 56px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Polygon_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 102.768px;
+	height: 89px;
+	transform: matrix(1,0,0,1,52.6158,496) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_3 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 102.768px;
+	height: 89px;
+	transform: matrix(1,0,0,1,1752.6158,496) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_9 {
+	position: absolute;
+	width: 339px;
+	height: 70px;
+	left: 1522px;
+	top: 960px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Ocena_czysta.html;
+	cursor: pointer;
+}
+#Rectangle_4_dr {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_dr {
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Zostaw_Recenzj {
+	left: 51px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
